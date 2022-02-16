@@ -9,4 +9,10 @@ nav.nav-custom {
   width: 50%;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+.nav-links-custom {
+  width: 70%;
+  display: flex;
+  justify-content: space-between;
 }

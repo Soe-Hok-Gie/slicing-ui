@@ -15,9 +15,13 @@ const Navbar = () => {
                 <a href="" className="link-secondary fw-bold">
                   Beranda
                 </a>
+              </div>
+              <div className="nav-link-custom">
                 <a href="" className="link-secondary fw-bold">
                   Silabus
                 </a>
+              </div>
+              <div className="nav-link-custom">
                 <a href="" className="link-secondary fw-bold">
                   Testimonial
                 </a>
