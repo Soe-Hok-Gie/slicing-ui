@@ -4,3 +4,9 @@ nav.nav-custom {
   justify-content: space-between;
   padding: 40px 0;
 }
+
+.nav-left {
+  width: 50%;
+  display: flex;
+  justify-content: space-between;
+}
