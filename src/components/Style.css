@@ -20,3 +20,7 @@ a.link-secondary {
   text-decoration: none;
   color: #76b254;
 }
+button.btn-primary-custom {
+  background: rgb(210, 228, 255);
+  background: linear-gradient(336deg, rgba(210, 228, 255, 1) 0%, rgba(142, 187, 255, 1) 100%);
+}
