@@ -16,3 +16,7 @@ nav.nav-custom {
   display: flex;
   justify-content: space-between;
 }
+a.link-secondary {
+  text-decoration: none;
+  color: #76b254;
+}
