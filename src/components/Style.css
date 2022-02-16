@@ -34,4 +34,5 @@ button.btn-primary-custom {
 button.btn-primary-custom:hover {
   transform: scale(1.02);
   transition: 0.3s ease-in;
+  box-shadow: 0px 14px 30px rgba(0, 0, 0, 0.8);
 }
