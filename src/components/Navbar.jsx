@@ -23,6 +23,9 @@ const Navbar = () => {
               </div>
             </div>
           </div>
+          <div className="nav-right">
+            <button className="btn-primary-custom">Daftar Sekarang</button>
+          </div>
         </nav>
       </div>
     </section>
