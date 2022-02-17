@@ -11,7 +11,7 @@ const Hero = () => {
             Pelatihan <i>Parenting</i> Terbaik di Indonesia
           </h1>
           <p className="p-secondary">Mari kita sadar akan pentingnya pelatihan untuk menjadi orang tua agar menghasilkan karakter anak yang unggul.</p>
-          <button className="btn-primary-custom">Daftar Sekarang</button>
+          <button className="btn-primary-custom mt-3">Daftar Sekarang</button>
         </div>
       </div>
     </div>
