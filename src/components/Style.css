@@ -49,3 +49,10 @@ p.p-secondary {
   color: #696969;
   width: 68%;
 }
+
+/* hero img */
+img.img-hero {
+  position: absolute;
+  right: 10%;
+  top: 0;
+}
