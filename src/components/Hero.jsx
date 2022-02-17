@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div className="container">
       {" "}
-      <div className="row">
+      <div className="row mt-5">
         <div className="col-lg-6">
           <h1 className="h1-custom">
             Pelatihan <i>Parenting</i> Terbaik di Indonesia
