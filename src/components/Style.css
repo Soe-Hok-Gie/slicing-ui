@@ -3,6 +3,8 @@ nav.nav-custom {
   width: 100%;
   justify-content: space-between;
   padding: 40px 0;
+  position: relative;
+  z-index: 99;
 }
 
 .nav-left {
@@ -53,6 +55,7 @@ p.p-secondary {
 /* hero img */
 img.img-hero {
   position: absolute;
+  width: 400px;
   right: 10%;
   top: 0;
 }

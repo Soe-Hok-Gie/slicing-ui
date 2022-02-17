@@ -14,7 +14,7 @@ const Hero = () => {
           <button className="btn-primary-custom mt-3">Daftar Sekarang</button>
         </div>
         <div className="col-lg-6">
-          <img src="./assets/img/kakek.png" alt="" className="img-hero" />
+          <img src="./assets/img/son1.png" alt="" className="img-hero" />
         </div>
       </div>
     </div>
